@@ -5,7 +5,8 @@ Microsoft has discontinued Expression Design 4, all trials now activate the full
 
 Download Expression Design 4 from 
 * [Internet Archive](https://web.archive.org/web/20131207231023/http://download.microsoft.com/download/C/6/8/C6866D29-E373-4F3F-98F0-E80903E77852/Design_Trial_en.exe) OR
-* [ExpressionDesign4.com](https://expressiondesign4.com/)
+* [ExpressionDesign4.com](https://expressiondesign4.com/) -thank you [@leeenglestone](https://github.com/leeenglestone)
+
 
   
 Use this template instead of using Adobe products:
