@@ -6,9 +6,12 @@ Microsoft has discontinued Expression Design 4, all trials now activate the full
 [Download From Expression4.com](https://expressiondesign4.com/)
 
 To use this template instead of using Adobe products.
-Import the swatch `Shirt Colors.xml` with the t-shirt colors. You will see a new swatch category with that name
+Copy the png files to the Images subfolder of the installation (typically **C:\Program Files (x86)\Microsoft Expression\Design 4\Images**)
+Import the swatch `Shirt Colors.xml` with the t-shirt colors, or copy to **%APPDATA%\Microsoft\Expression\Design\Swatches**. 
+
+You will see a new swatch category with that name
 
 `ShirtDesign.design` has the largest printable area for your design
-`WootShirt.design` has the T-Shirt with a pre-defined slice as well as the printable area on the T-shirt
+`WootShirt.design` has the T-Shirt with a pre-defined slice as well as the printable area on the T-shirt. Slices are sections to export of part of the desing
 
 
