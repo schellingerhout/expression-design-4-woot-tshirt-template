@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<SwatchLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Shirt Colors" xmlns="http://schemas.microsoft.com/expression/design/2007">
+  <SolidColorSwatch Name="Black" Color="#FF000000" />
+  <SolidColorSwatch Name="Navy" Color="#FF15232B" />
+  <SolidColorSwatch Name="Royal Blue" Color="#FF1C4086" />
+  <ImageSwatch Name="Dark Heather" Path="Images\Dark Heather.png" />
+  <ImageSwatch Name="Heather Grey" Path="Images\Heather Grey.png" />
+  <ImageSwatch Name="Heather Blue" Path="Images\Heather Blue.png" />
+  <SolidColorSwatch Name="Silver" Color="#FFCFD1D1" />
+  <SolidColorSwatch Name="Slate" Color="#FF818189" />
+  <SolidColorSwatch Name="Asphalt" Color="#FF3F3E3C" />
+  <SolidColorSwatch Name="Cranberry" Color="#FF6E0A25" />
+  <SolidColorSwatch Name="Red" Color="#FFB71111" />
+  <SolidColorSwatch Name="Lemon" Color="#FFF0E87B" />
+  <SolidColorSwatch Name="Grass" Color="#FF5E9444" />
+  <SolidColorSwatch Name="Kelly Green" Color="#FF006136" />
+  <SolidColorSwatch Name="Olive" Color="#FF4A4F26" />
+  <SolidColorSwatch Name="Baby Blue" Color="#FF8FB8DB" />
+  <SolidColorSwatch Name="Brown" Color="#FF31261D" />
+  <SolidColorSwatch Name="White"  Color="#FFFFFFFF" />
+  <SolidColorSwatch Name="Purple" Color="#FF543964" />
+  <SolidColorSwatch Name="Pink" Color="#FFF8B8DB" />
+  <SolidColorSwatch Name="Orange" Color="#FFE84A36" />
+</SwatchLibrary>
