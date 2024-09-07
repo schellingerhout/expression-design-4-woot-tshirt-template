@@ -5,9 +5,12 @@
   <SolidColorSwatch Name="Black" Color="#FF000000" />
   <SolidColorSwatch Name="Navy" Color="#FF15232B" />
   <SolidColorSwatch Name="Royal Blue" Color="#FF1C4086" />
-  <ImageSwatch Name="Dark Heather" Path="Images\Dark Heather.png" />
-  <ImageSwatch Name="Heather Grey" Path="Images\Heather Grey.png" />
-  <ImageSwatch Name="Heather Blue" Path="Images\Heather Blue.png" />
+  <ImageSwatch Name="Dark Heather (Texture)" Path="Images\Dark Heather.png" />
+  <SolidColorSwatch Name="Dark Heather (Color)" Color="#1F1F1F" /> 
+  <ImageSwatch Name="Heather Grey (Texture)" Path="Images\Heather Grey.png" />
+  <SolidColorSwatch Name="Heather Grey (Color)" Color="#FFAAA9A9" />
+  <ImageSwatch Name="Heather Blue (Texture)" Path="Images\Heather Blue.png" />
+  <SolidColorSwatch Name="Heather Blue (Color)" Color="#FF1E232D" />
   <SolidColorSwatch Name="Silver" Color="#FFCFD1D1" />
   <SolidColorSwatch Name="Slate" Color="#FF818189" />
   <SolidColorSwatch Name="Asphalt" Color="#FF3F3E3C" />
